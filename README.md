@@ -4,7 +4,7 @@
 
 2.  set up a virtual environment
      
-	 python -m venv .venv
+	     python -m venv .venv
      
         .\.venv\Scripts\activate
 
