@@ -11,6 +11,7 @@
 3. Install required packages
 
    pip install google-adk
+   
    pip install deprecated pydantic httpx requests rich
 
 4.create file
@@ -21,7 +22,9 @@
 
 6.myAgent created
 	- .env
+ 
 	- __init__.py
+ 
 	- agent.py
 
 7.Finally Run the parent folder
