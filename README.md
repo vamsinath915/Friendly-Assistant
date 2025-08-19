@@ -10,9 +10,9 @@
 
 3.  Install required packages
 
-   pip install google-adk
+  		 pip install google-adk
    
-   pip install deprecated pydantic httpx requests rich
+  		 pip install deprecated pydantic httpx requests rich
 
 4.  create file
 
