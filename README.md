@@ -1,5 +1,7 @@
 # Friendly-Assistant
+A Friendly Assistant is usually a term for an AI-powered helper (like a chatbot, virtual agent, or smart assistant) that is designed to interact with people in a polite, supportive, and easy-to-understand way.
 
+# How to create a agent
 1.  create a folder
 
 2.  set up a virtual environment
